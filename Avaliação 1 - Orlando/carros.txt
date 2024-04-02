@@ -1,8 +1,0 @@
-
-"Kalliel Marcos Pinheiro|123|123|Carro"
-"Kalliel Marcos Pinheiro|123|344|Carro"
-"Aline|1000000011|ERJ987|Carro"
-"zzzzzzzz|zzz|zzzz|Carro"
-"Kalliel Marcos Pinheiro|joqo|123|Carro"
-"Aline|sasdas|dad|Carro"
-"Kalliel Marcos Pinheiro|123|213|Carro"
